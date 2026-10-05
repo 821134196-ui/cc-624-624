@@ -8,6 +8,10 @@ target/
 dist/
 build/
 *.log
+# SQLite 数据库与本地运行数据
+data/
+# 前端构建产物(由 run.sh / npm run build 生成)
+src/main/resources/META-INF/resources/
 .claude/
 .cc-workbench/
 轨迹/
