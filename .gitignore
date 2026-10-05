@@ -13,3 +13,7 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 项目生成物
+backend/data/
+backend/src/main/resources/META-INF/
